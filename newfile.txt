@@ -10,4 +10,10 @@ francais sonade pronote par razpport a la lecture du livre
 hist geo
 
 
+
 je rajoute du texte pour voir l'effet avec le merge:
+
+on rajouite des variable
+
+et des point virgules
+
