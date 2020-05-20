@@ -8,3 +8,6 @@ francais sonade pronote par razpport a la lecture du livre
 5 phrase a rediger au futur
 
 hist geo
+
+
+je rajoute du texte pour voir l'effet avec le merge:
