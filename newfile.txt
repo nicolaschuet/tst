@@ -8,3 +8,5 @@ francais sonade pronote par razpport a la lecture du livre
 5 phrase a rediger au futur
 
 hist geo
+
+on rajouite des variable
